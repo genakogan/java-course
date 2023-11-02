@@ -3,17 +3,22 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-        int numerator = 10;
-        int denominator = 0;
+        Scanner scanner = new Scanner(System.in);
 
-        try {
-            int result = numerator / denominator; // Potential division by zero
-            System.out.println("Result: " + result); // This line won't be reached
-        } catch (ArithmeticException e) {
-            System.err.println("An error occurred: " + e.getMessage());
-        }
+        System.out.print("Enter the first integer: ");
+        int firstNumber = scanner.nextInt();
 
-        System.out.println("Program continues running.");
+        System.out.print("Enter the second integer: ");
+        int secondNumber = scanner.nextInt();
+
+        System.out.print("Enter the third integer: ");
+        int thirdNumber = scanner.nextInt();
+
+        double average = Test.calculateAverage(firstNumber, secondNumber, thirdNumber);
+
+        System.out.println("The average is: " + average);
+
+        scanner.close();
     }
 
 }
