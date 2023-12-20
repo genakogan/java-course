@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gui-example/gui-example.iml" filepath="$PROJECT_DIR$/gui-example/gui-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-course.iml" filepath="$PROJECT_DIR$/.idea/java-course.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab1/lab1.iml" filepath="$PROJECT_DIR$/lab1/lab1.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab0/task1/task1.iml" filepath="$PROJECT_DIR$/lab0/task1/task1.iml" />

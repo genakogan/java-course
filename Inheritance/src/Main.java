@@ -13,6 +13,9 @@ public class Main {
             myDog.wagTail();   // Output: Dog is wagging its tail.
             myCat.makeSound(); // Output: Animal makes a sound: Meow
             myCat.purr();      // Output: Cat is purring.
+            Animal newA = new Dog();
+            newA.makeSound();
+
 
 
     }
