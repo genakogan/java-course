@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/java-course.iml" filepath="$PROJECT_DIR$/.idea/java-course.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_postgresql/java_postgresql.iml" filepath="$PROJECT_DIR$/java_postgresql/java_postgresql.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab1/lab1.iml" filepath="$PROJECT_DIR$/lab1/lab1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab2/lab2.iml" filepath="$PROJECT_DIR$/lab2/lab2.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab0/task1/task1.iml" filepath="$PROJECT_DIR$/lab0/task1/task1.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab0/task2/task2.iml" filepath="$PROJECT_DIR$/lab0/task2/task2.iml" />
     </modules>
